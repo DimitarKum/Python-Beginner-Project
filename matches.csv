@@ -1,0 +1,201 @@
+HomePlayer, AwayPlayer, HomeScore, AwayScore
+Marie Curie, Gregor Mendel, 4, 0
+Charles Darwin, Nikola Tesla, 3, 1
+Gregor Mendel, Charles Darwin, 2, 2
+John von Neumann, Alan Turing, 2, 0
+Georg Cantor, Grace Hopper, 3, 3
+Charles Darwin, Marie Curie, 0, 0
+Alan Turing, Charles Darwin, 1, 2
+Georg Cantor, John von Neumann, 4, 1
+Georg Cantor, Marie Curie, 0, 1
+Gregor Mendel, Alan Turing, 2, 2
+Gregor Mendel, Grace Hopper, 2, 2
+David Hilbert, Grace Hopper, 4, 4
+Gregor Mendel, Ada Lovelace, 2, 4
+Marie Curie, Alan Turing, 1, 1
+Charles Darwin, Marie Curie, 1, 2
+Alan Turing, Charles Darwin, 4, 2
+Nikola Tesla, Georg Cantor, 2, 0
+Grace Hopper, Georg Cantor, 2, 3
+Grace Hopper, Charles Darwin, 4, 4
+Grace Hopper, Ada Lovelace, 4, 1
+Marie Curie, Ada Lovelace, 3, 4
+Gregor Mendel, Ada Lovelace, 3, 0
+John von Neumann, David Hilbert, 3, 0
+Alan Turing, Ada Lovelace, 1, 0
+Charles Darwin, Ada Lovelace, 0, 4
+Charles Darwin, Ada Lovelace, 1, 1
+Alan Turing, Marie Curie, 3, 4
+Charles Darwin, David Hilbert, 0, 4
+Nikola Tesla, Gregor Mendel, 0, 1
+Ada Lovelace, Nikola Tesla, 4, 0
+Ada Lovelace, Grace Hopper, 1, 3
+Marie Curie, Grace Hopper, 4, 3
+Grace Hopper, David Hilbert, 2, 4
+John von Neumann, Gregor Mendel, 0, 0
+Alan Turing, Marie Curie, 1, 3
+Nikola Tesla, Gregor Mendel, 4, 2
+David Hilbert, Charles Darwin, 0, 1
+Ada Lovelace, Nikola Tesla, 3, 2
+Georg Cantor, Charles Darwin, 4, 2
+Marie Curie, Nikola Tesla, 3, 2
+Grace Hopper, Alan Turing, 1, 2
+Marie Curie, David Hilbert, 4, 1
+David Hilbert, Gregor Mendel, 4, 1
+Nikola Tesla, Gregor Mendel, 4, 1
+Grace Hopper, John von Neumann, 0, 2
+Alan Turing, Grace Hopper, 3, 4
+Nikola Tesla, Alan Turing, 1, 4
+Charles Darwin, Nikola Tesla, 1, 2
+Alan Turing, Georg Cantor, 2, 4
+Georg Cantor, Grace Hopper, 2, 2
+Marie Curie, Charles Darwin, 3, 3
+Georg Cantor, John von Neumann, 2, 2
+Ada Lovelace, Charles Darwin, 4, 1
+Alan Turing, Charles Darwin, 2, 2
+David Hilbert, Nikola Tesla, 0, 4
+Ada Lovelace, Charles Darwin, 3, 3
+Charles Darwin, Gregor Mendel, 3, 0
+Nikola Tesla, Gregor Mendel, 1, 0
+David Hilbert, Georg Cantor, 3, 1
+John von Neumann, Ada Lovelace, 1, 4
+John von Neumann, Nikola Tesla, 1, 0
+Alan Turing, Marie Curie, 0, 2
+Marie Curie, Grace Hopper, 0, 3
+Grace Hopper, Marie Curie, 4, 3
+Georg Cantor, Alan Turing, 2, 1
+Georg Cantor, Charles Darwin, 2, 3
+John von Neumann, David Hilbert, 2, 0
+Georg Cantor, Grace Hopper, 3, 2
+Gregor Mendel, John von Neumann, 2, 4
+Georg Cantor, Nikola Tesla, 1, 0
+Gregor Mendel, Georg Cantor, 1, 0
+Grace Hopper, Marie Curie, 1, 3
+Marie Curie, David Hilbert, 1, 3
+Nikola Tesla, Ada Lovelace, 2, 3
+Alan Turing, Marie Curie, 2, 2
+Charles Darwin, Gregor Mendel, 3, 3
+Charles Darwin, Marie Curie, 4, 0
+Grace Hopper, David Hilbert, 0, 3
+Marie Curie, Gregor Mendel, 1, 4
+Charles Darwin, Gregor Mendel, 1, 2
+Gregor Mendel, Ada Lovelace, 0, 3
+Nikola Tesla, Gregor Mendel, 2, 1
+Alan Turing, Georg Cantor, 3, 3
+John von Neumann, Charles Darwin, 1, 0
+Charles Darwin, Nikola Tesla, 2, 0
+Ada Lovelace, Georg Cantor, 0, 1
+Ada Lovelace, Charles Darwin, 1, 1
+Nikola Tesla, Charles Darwin, 0, 2
+Georg Cantor, Gregor Mendel, 2, 4
+Grace Hopper, Charles Darwin, 0, 1
+John von Neumann, David Hilbert, 0, 0
+Nikola Tesla, John von Neumann, 3, 2
+Grace Hopper, Georg Cantor, 0, 2
+Georg Cantor, John von Neumann, 2, 4
+Ada Lovelace, Gregor Mendel, 0, 2
+Charles Darwin, Georg Cantor, 3, 1
+Nikola Tesla, David Hilbert, 2, 3
+Marie Curie, Charles Darwin, 3, 1
+Alan Turing, Ada Lovelace, 4, 1
+Ada Lovelace, Georg Cantor, 4, 4
+Grace Hopper, Georg Cantor, 0, 2
+John von Neumann, Grace Hopper, 0, 4
+David Hilbert, Nikola Tesla, 1, 1
+John von Neumann, Gregor Mendel, 3, 0
+Grace Hopper, Georg Cantor, 2, 2
+Marie Curie, Alan Turing, 0, 1
+Marie Curie, Georg Cantor, 4, 4
+Grace Hopper, Alan Turing, 0, 4
+Gregor Mendel, Georg Cantor, 4, 3
+Marie Curie, Ada Lovelace, 1, 2
+Alan Turing, Gregor Mendel, 3, 0
+David Hilbert, Ada Lovelace, 2, 4
+Alan Turing, John von Neumann, 1, 2
+Marie Curie, Ada Lovelace, 3, 4
+Charles Darwin, Georg Cantor, 1, 0
+Marie Curie, Alan Turing, 3, 1
+Charles Darwin, Grace Hopper, 1, 4
+David Hilbert, John von Neumann, 0, 4
+Charles Darwin, Nikola Tesla, 2, 0
+David Hilbert, Alan Turing, 2, 1
+Alan Turing, David Hilbert, 4, 0
+David Hilbert, Marie Curie, 0, 1
+David Hilbert, Georg Cantor, 4, 3
+John von Neumann, Ada Lovelace, 4, 2
+David Hilbert, Alan Turing, 0, 1
+Nikola Tesla, David Hilbert, 1, 4
+Charles Darwin, Marie Curie, 2, 1
+Georg Cantor, Nikola Tesla, 0, 4
+Marie Curie, Nikola Tesla, 3, 4
+Alan Turing, Marie Curie, 2, 1
+Nikola Tesla, David Hilbert, 1, 0
+Alan Turing, John von Neumann, 1, 4
+Grace Hopper, Nikola Tesla, 0, 3
+Marie Curie, John von Neumann, 2, 3
+Nikola Tesla, Charles Darwin, 0, 3
+Ada Lovelace, Charles Darwin, 1, 1
+John von Neumann, Marie Curie, 3, 4
+Nikola Tesla, Marie Curie, 3, 4
+Georg Cantor, Charles Darwin, 2, 2
+David Hilbert, Nikola Tesla, 4, 3
+Ada Lovelace, Gregor Mendel, 1, 2
+Alan Turing, Gregor Mendel, 1, 0
+Alan Turing, David Hilbert, 3, 4
+Grace Hopper, Marie Curie, 3, 1
+Alan Turing, Grace Hopper, 0, 2
+Alan Turing, Georg Cantor, 4, 0
+David Hilbert, John von Neumann, 0, 1
+Charles Darwin, Grace Hopper, 0, 1
+Alan Turing, Nikola Tesla, 2, 2
+Georg Cantor, Marie Curie, 3, 3
+Alan Turing, Ada Lovelace, 3, 4
+Alan Turing, Marie Curie, 0, 1
+Charles Darwin, David Hilbert, 3, 0
+Grace Hopper, David Hilbert, 1, 4
+Gregor Mendel, Ada Lovelace, 1, 1
+Marie Curie, John von Neumann, 2, 3
+Marie Curie, Alan Turing, 4, 4
+Gregor Mendel, David Hilbert, 2, 2
+Ada Lovelace, David Hilbert, 0, 4
+Ada Lovelace, Marie Curie, 3, 0
+Grace Hopper, Charles Darwin, 4, 3
+Nikola Tesla, Ada Lovelace, 4, 3
+Grace Hopper, Alan Turing, 2, 2
+Alan Turing, Gregor Mendel, 4, 3
+Marie Curie, Georg Cantor, 0, 3
+Charles Darwin, Marie Curie, 3, 2
+Grace Hopper, Georg Cantor, 2, 2
+David Hilbert, Georg Cantor, 3, 0
+Gregor Mendel, Marie Curie, 1, 4
+Alan Turing, Marie Curie, 4, 2
+David Hilbert, Gregor Mendel, 2, 0
+Gregor Mendel, David Hilbert, 3, 0
+John von Neumann, Ada Lovelace, 4, 2
+Nikola Tesla, Gregor Mendel, 4, 4
+Georg Cantor, Charles Darwin, 4, 4
+Marie Curie, Alan Turing, 0, 2
+Nikola Tesla, Charles Darwin, 1, 4
+Charles Darwin, Grace Hopper, 0, 2
+Nikola Tesla, Grace Hopper, 2, 2
+Charles Darwin, Georg Cantor, 3, 4
+Georg Cantor, Marie Curie, 4, 3
+Alan Turing, John von Neumann, 0, 3
+Marie Curie, Charles Darwin, 0, 0
+Alan Turing, Charles Darwin, 0, 3
+Ada Lovelace, Nikola Tesla, 4, 3
+Grace Hopper, Georg Cantor, 4, 4
+Grace Hopper, John von Neumann, 1, 3
+Gregor Mendel, Marie Curie, 0, 4
+Charles Darwin, Grace Hopper, 0, 2
+Gregor Mendel, David Hilbert, 4, 0
+Nikola Tesla, Alan Turing, 1, 4
+David Hilbert, Gregor Mendel, 1, 3
+Charles Darwin, Grace Hopper, 4, 2
+Nikola Tesla, Grace Hopper, 1, 4
+David Hilbert, Georg Cantor, 0, 3
+Marie Curie, David Hilbert, 0, 0
+Grace Hopper, Marie Curie, 4, 3
+John von Neumann, Alan Turing, 2, 1
+Georg Cantor, David Hilbert, 4, 2
+John von Neumann, Ada Lovelace, 3, 1
